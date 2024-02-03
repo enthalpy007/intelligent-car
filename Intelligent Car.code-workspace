@@ -5,8 +5,7 @@
 			"path": "."
 		},
 		{
-			"name": "Engine Simulator",
-			"path": "../Engine Simulator"
+			"path": "../engine-simulator"
 		}
 	],
 	"settings": {}
