@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "Intelligent Car",
+			"path": "."
+		},
+		{
+			"name": "Engine Simulator",
+			"path": "../Engine Simulator"
+		}
+	],
+	"settings": {}
+}
